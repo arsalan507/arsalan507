@@ -31,12 +31,13 @@
 <tr>
 <td width="50%">
 
-### 🤖 KXH AI Marketing Engine
-Autonomous content agent powered by Claude AI — generates Hormozi/GaryVee/Bindra-style posts daily, auto-posts to LinkedIn & Reddit.
+### 🏗️ [Nirman — Construction Tracker](https://github.com/arsalan507/nirman)
+Voice-powered PWA for tracking construction expenses. Speak in Hindi/Kannada/English — auto-fills amount, category, vendor. Open source.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
-![Cron](https://img.shields.io/badge/Cron-8am_Daily-22C55E?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Sarvam.ai-Voice-FF6B35?style=flat-square)
+![Live](https://img.shields.io/badge/Live-PWA-22C55E?style=flat-square)
 
 </td>
 <td width="50%">
@@ -53,21 +54,22 @@ Scrapes AC/phone repair shops in Bangalore → scores leads → sends personaliz
 <tr>
 <td width="50%">
 
+### 🤖 KXH AI Marketing Engine
+Autonomous content agent powered by Claude AI — generates Hormozi/GaryVee/Bindra-style posts daily, auto-posts to LinkedIn & Reddit.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-8am_Daily-22C55E?style=flat-square)
+
+</td>
+<td width="50%">
+
 ### 🔧 ServiceApp (BCH)
 Service job management system for Bharat Cycle Hub — job cards, technician tracking, billing.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Deployed-Coolify-6366F1?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🧠 AI Second Brain
-Context management system — business briefs, credentials structure, and MASTER_PROMPT for Claude AI sessions across all devices.
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
