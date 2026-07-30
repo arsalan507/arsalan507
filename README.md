@@ -34,10 +34,6 @@ Opened three bug-fix pull requests against **[bitrix24/b24rabbitmq](https://gith
 
 `Next.js` `React` `TypeScript` `Tailwind` &nbsp;—&nbsp; `Node.js` `Python` `Playwright` &nbsp;—&nbsp; `Supabase` `PostgreSQL` &nbsp;—&nbsp; `Claude` `OpenAI` &nbsp;—&nbsp; `Docker` `Coolify`
 
-## GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=arsalan507&show_icons=true&hide_rank=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d" width="420" alt="arsalan507's GitHub stats" />
-
 ---
 
 📫 Reach out on [WhatsApp](https://wa.me/919916516507) or [LinkedIn](https://linkedin.com/in/arsalan507) — always open to talking automation, AI infra, or a new build.
