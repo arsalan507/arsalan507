@@ -11,7 +11,6 @@
 | | Business | What | |
 |---|---|---|---|
 | 🟠 | **KineticXHub** | Google Ads + digital marketing for Bengaluru businesses | [kineticxhub.com](https://kineticxhub.com) |
-| 🔵 | **2XG** | Marketing + automation agency, co-founded | [2xg.in](https://2xg.in) |
 
 ## What I'm building
 
