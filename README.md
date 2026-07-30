@@ -1,6 +1,6 @@
 # Arsalan Ahmed
 
-**Founder, [KineticXHub](https://kineticxhub.com)** — I build the AI automation infrastructure behind local-business marketing and operations, then run the businesses on it.
+**Founder, [KineticXHub](https://kineticxhub.com)** · **Co-founder, [Black Arrow Technologies](https://blackarrowtechnologies.com)** — I build AI automation and digital-marketing infrastructure for businesses, then run agencies on it.
 
 📍 Bengaluru, India &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/arsalan507) &nbsp;·&nbsp; [Email](mailto:arsalanahmed507@gmail.com) &nbsp;·&nbsp; [WhatsApp](https://wa.me/919916516507)
 
@@ -10,7 +10,8 @@
 
 | | Business | What | |
 |---|---|---|---|
-| 🟠 | **KineticXHub** | Google Ads + digital marketing for Bengaluru businesses | [kineticxhub.com](https://kineticxhub.com) |
+| 🟠 | **KineticXHub** | AI automation + digital marketing for Bengaluru businesses | [kineticxhub.com](https://kineticxhub.com) |
+| ⚫ | **Black Arrow Technologies** | Website design + digital services, co-founded | [blackarrowtechnologies.com](https://blackarrowtechnologies.com) |
 
 ## What I'm building
 
