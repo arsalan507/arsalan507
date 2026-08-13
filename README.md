@@ -25,11 +25,13 @@
 
 ## Open source
 
-Opened three bug-fix pull requests against **[bitrix24/b24rabbitmq](https://github.com/bitrix24/b24rabbitmq)**, each backed by a regression test verified to fail before the fix and pass after:
+Bug fixes in other people's codebases, each backed by a regression test verified to fail before the fix and pass after.
 
-- [#54](https://github.com/bitrix24/b24rabbitmq/pull/54) — a config-merge bug silently dropping a default value
-- [#55](https://github.com/bitrix24/b24rabbitmq/pull/55) — a reconnect loop that re-armed itself after a graceful shutdown
-- [#56](https://github.com/bitrix24/b24rabbitmq/pull/56) — missing error listeners that could crash the host process on a broker bounce
+**[bitrix24/b24ui](https://github.com/bitrix24/b24ui)** — search results were truncated one UTF-16 code unit at a time, so a boundary landing between an emoji's surrogates split it in half and rendered `�`. Fixed by iterating code points and measuring the caller's budget in the same units — [merged into `main`](https://github.com/bitrix24/b24ui/commit/01252a62), closing [#339](https://github.com/bitrix24/b24ui/issues/339), with authorship preserved by the maintainer. Follow-up [#379](https://github.com/bitrix24/b24ui/pull/379) fixes the same class of bug where the `<mark>` tag is *inserted* rather than where the string is cut.
+
+**[nuxt/ui](https://github.com/nuxt/ui)** — [#6830](https://github.com/nuxt/ui/pull/6830) merged: the alternating-timeline recipe positioned items with physical `translate-x` and `text-right` utilities, which don't mirror under `dir="rtl"`. [#6817](https://github.com/nuxt/ui/pull/6817) open: the upstream twin of the b24ui truncation fix, so the two projects stay in sync.
+
+**[bitrix24/b24rabbitmq](https://github.com/bitrix24/b24rabbitmq)** — three fixes open: [#54](https://github.com/bitrix24/b24rabbitmq/pull/54) a config-merge bug silently dropping a default value, [#55](https://github.com/bitrix24/b24rabbitmq/pull/55) a reconnect loop that re-armed itself after a graceful shutdown, [#56](https://github.com/bitrix24/b24rabbitmq/pull/56) missing error listeners that could crash the host process on a broker bounce.
 
 ## Stack
 
